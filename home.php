@@ -28,7 +28,7 @@ if (empty(($_SESSION['username']))) {
         <p style="text-align:center;">What would you like to explore !!!</p>
         <table> 
             <?php
-              $admin_user = '1801CS21';
+              $admin_user = 'admin';
               $check_username = $_SESSION['username'];
               $check_username = strtolower($check_username);
               $admin_user = strtolower($admin_user);
