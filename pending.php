@@ -50,7 +50,7 @@ if (empty(($_SESSION['username']))) {
                         <th>Rooms</th>
                         <th>Check In</th>
                         <th>Check Out</th>
-                        <th>Proof of Payment</th>
+                        <th>Proof of Purpose of Visit</th>
                         <th>Payment status</th>
                     </tr>
                     <?php
