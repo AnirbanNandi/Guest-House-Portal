@@ -53,7 +53,7 @@ if (empty(($_SESSION['username']))) {
     }
     var limit = '<?php echo $rooms_limit ?>';
     if(count != limit){
-      alert('Please select atleast ' + limit + ' rooms.');
+      alert('Please select ' + limit + ' rooms.');
       return false;
     }
   }
