@@ -1,5 +1,5 @@
 # Guest-House-Portal
-This portal was created by [Anirban Nandi](https://github.com/AnirbanNandi) and [Harsh Gupta](https://github.com/catchharsh) as part of Innovative Design Lab Project, 2020, during the 4th semester at IIT Patna.
+This portal was created by [Anirban Nandi](https://github.com/AnirbanNandi) (me) and [Harsh Gupta](https://github.com/catchharsh) as part of Innovative Design Lab Project, 2020, during the 4th semester at IIT Patna.
 
 Note: This repository is a copy of the original repository (with a few changes). Link to original repository : [ Guest House Booking Online Portal](https://github.com/catchharsh/Guest_House_Portal_IIT_Patna)
 
