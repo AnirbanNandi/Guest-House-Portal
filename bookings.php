@@ -184,7 +184,7 @@ if (empty(($_SESSION['username']))) {
 
  
       <div class='input-group'>
-          <label>Upload Document(Proof Of Payment) in Pdf</label>
+          <label>Upload Document validating purpose of visit (in PDF)</label>
           <input type="file" name='file' required>
       </div>
 
