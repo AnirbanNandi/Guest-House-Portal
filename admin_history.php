@@ -27,16 +27,7 @@ if (empty(($_SESSION['username']))) {
             alert("User id should be a valid positive numeric value");
             return false;
           }
-          if(Date.parse(startDt)>Date.parse(endDt))
-          {
-            alert("Check out date should not be before check in date");
-            return false;
-          }
-          if(Date.parse(cur)>Date.parse(startDt))
-          {
-            alert("Check in date is in the past");
-            return false;
-          }
+          
     }
 </script>
 <body>
